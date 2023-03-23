@@ -12,19 +12,19 @@ Implementation of Straights Card Game
 
 ## Overview
 
-Implemented a card game called "Straights" as final project of CS 246 (Object-Oriented Software Development)
+Implemented a card game called "Straights" as final project of CS 246 (Object-Oriented Software Development).
 
 ## Installation
 
-Will be updated soon
+Will be updated soon.
 
 ## Usage
 
-Will be updated soon
+Will be updated soon.
 
 ## Contributing
 
-Will be updated soon
+Will be updated soon.
 
 ## License
 
