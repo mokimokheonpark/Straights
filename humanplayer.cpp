@@ -1,4 +1,4 @@
-#include "humanplayer.h""
+#include "humanplayer.h"
 #include <iostream>
 
 HumanPlayer::HumanPlayer(Deck shuffledDeck) : shuffledDeck{ shuffledDeck } {}
