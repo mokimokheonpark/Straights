@@ -1,18 +1,20 @@
 # Straights
 
-Implementation of Straights Card Game
+This project implemented a card game called "Straights" as the final project of the Object-Oriented Software Development Course
 
-## Overview
+## Features
 
-Implemented a card game called "Straights" as final project of CS 246 (Object-Oriented Software Development).
+- Developed a card game called "Straights" using object-oriented programming principles in C++
+- Utilized header and implementation files to modularize code, improving readability and maintainability
+- Designed a UML class diagram to visualize the system's architecture and ensure clean, efficient code
 
 ## Installation
 
-Will be updated soon.
+Clone the repository using the following command: git clone https://github.com/mokimokheonpark/Straights.git
 
-## Usage
+## How-to-Play
 
-Will be updated soon.
+Please read Straights.pdf.
 
 ## Contributions
 
