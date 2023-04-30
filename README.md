@@ -1,12 +1,12 @@
 # Straights
 
-This project implemented a card game called "Straights" as the final project of the Object-Oriented Software Development Course
+This project implemented a card game called "Straights" as the final project of the Object-Oriented Software Development Course.
 
 ## Features
 
-- Developed a card game called "Straights" using object-oriented programming principles in C++
-- Utilized header and implementation files to modularize code, improving readability and maintainability
-- Designed a UML class diagram to visualize the system's architecture and ensure clean, efficient code
+- Developed a card game called "Straights" using object-oriented programming principles in C++.
+- Utilized header and implementation files to modularize code, improving readability and maintainability.
+- Designed a UML class diagram to visualize the system's architecture and ensure clean, efficient code.
 
 ## Installation
 
